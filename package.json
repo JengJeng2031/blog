@@ -10,13 +10,17 @@
   },
   "dependencies": {
     "@next/env": "^14.2.5",
+    "bcrypt": "^5.1.1",
     "next": "14.2.5",
     "next-auth": "^4.24.7",
+    "passport-local": "^1.0.0",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
     "@types/node": "^20",
+    "@types/passport-local": "^1.0.38",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
